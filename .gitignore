@@ -6,3 +6,6 @@ logs/
 __pycache__/
 .vscode/
 .catkin_tools/
+.rosinstall
+.rosinstall.bak
+abseil-cpp
