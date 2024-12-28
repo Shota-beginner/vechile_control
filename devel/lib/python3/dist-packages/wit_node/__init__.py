@@ -1,0 +1,1 @@
+/home/shota/catkin_ws/devel/.private/wit_node/lib/python3/dist-packages/wit_node/__init__.py

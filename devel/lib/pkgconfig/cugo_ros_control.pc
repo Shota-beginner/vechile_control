@@ -1,0 +1,1 @@
+/home/shota/catkin_ws/devel/.private/cugo_ros_control/lib/pkgconfig/cugo_ros_control.pc

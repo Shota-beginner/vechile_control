@@ -1,0 +1,50 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _wit_node_generate_messages_check_deps_ImuGpsRaw[0m
+[  0%] Built target _wit_node_generate_messages_check_deps_ImuGpsRaw
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target wit_driver[0m
+[35m[1mScanning dependencies of target wit_node_generate_messages_eus[0m
+[  5%] [34m[1mGenerating EusLisp code from wit_node/ImuGpsRaw.msg[0m
+[35m[1mScanning dependencies of target wit_node_generate_messages_lisp[0m
+[ 11%] [34m[1mGenerating Lisp code from wit_node/ImuGpsRaw.msg[0m
+[ 16%] [32mBuilding CXX object src/driver/CMakeFiles/wit_driver.dir/command.cpp.o[0m
+[ 22%] [34m[1mGenerating EusLisp manifest code for wit_node[0m
+[ 22%] Built target wit_node_generate_messages_lisp
+[ 27%] [32mBuilding CXX object src/driver/CMakeFiles/wit_driver.dir/data.cpp.o[0m
+[ 27%] Built target wit_node_generate_messages_eus
+[ 33%] [32mBuilding CXX object src/driver/CMakeFiles/wit_driver.dir/packet_finder.cpp.o[0m
+[ 38%] [32mBuilding CXX object src/driver/CMakeFiles/wit_driver.dir/wit_driver.cpp.o[0m
+[35m[1mScanning dependencies of target wit_node_generate_messages_py[0m
+[ 44%] [34m[1mGenerating Python from MSG wit_node/ImuGpsRaw[0m
+[ 50%] [34m[1mGenerating Python msg __init__.py for wit_node[0m
+[ 50%] Built target wit_node_generate_messages_py
+[35m[1mScanning dependencies of target wit_node_generate_messages_nodejs[0m
+[ 55%] [34m[1mGenerating Javascript code from wit_node/ImuGpsRaw.msg[0m
+[ 55%] Built target wit_node_generate_messages_nodejs
+[35m[1mScanning dependencies of target wit_node_generate_messages_cpp[0m
+[ 61%] [34m[1mGenerating C++ code from wit_node/ImuGpsRaw.msg[0m
+[ 61%] Built target wit_node_generate_messages_cpp
+[35m[1mScanning dependencies of target wit_node_generate_messages[0m
+[ 61%] Built target wit_node_generate_messages
+[ 66%] [32m[1mLinking CXX shared library /home/shota/catkin_ws/devel/.private/wit_node/lib/libwit_driver.so[0m
+[ 66%] Built target wit_driver
+[35m[1mScanning dependencies of target wit_ros[0m
+[ 72%] [32mBuilding CXX object src/ros/CMakeFiles/wit_ros.dir/wit_ros.cpp.o[0m
+[35m[1mScanning dependencies of target initialization[0m
+[ 77%] [32mBuilding CXX object src/test/CMakeFiles/initialization.dir/initialization.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/shota/catkin_ws/devel/.private/wit_node/lib/wit_node/initialization[0m
+[ 83%] Built target initialization
+[ 88%] [32m[1mLinking CXX shared library /home/shota/catkin_ws/devel/.private/wit_node/lib/libwit_ros.so[0m
+[ 88%] Built target wit_ros
+[35m[1mScanning dependencies of target wit_nodelet[0m
+[ 94%] [32mBuilding CXX object src/nodelet/CMakeFiles/wit_nodelet.dir/wit_nodelet.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/shota/catkin_ws/devel/.private/wit_node/lib/libwit_nodelet.so[0m
+[100%] Built target wit_nodelet

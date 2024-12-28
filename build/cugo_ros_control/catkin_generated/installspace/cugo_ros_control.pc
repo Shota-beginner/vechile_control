@@ -1,0 +1,8 @@
+prefix=/home/shota/catkin_ws/install
+
+Name: cugo_ros_control
+Description: Description of cugo_ros_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy std_msgs tf
