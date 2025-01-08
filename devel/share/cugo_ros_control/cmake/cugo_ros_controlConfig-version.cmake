@@ -1,1 +1,0 @@
-/home/shota/catkin_ws/devel/.private/cugo_ros_control/share/cugo_ros_control/cmake/cugo_ros_controlConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/shota/catkin_ws/devel/.private/wit_node/share/wit_node/cmake/wit_node-msg-paths.cmake

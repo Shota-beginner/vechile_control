@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -std=c++17 -O3   -shared -Wl,-soname,libParticle_emcl2.so -o /home/shota/catkin_ws/devel/.private/emcl2/lib/libParticle_emcl2.so CMakeFiles/Particle_emcl2.dir/src/Particle.cpp.o 

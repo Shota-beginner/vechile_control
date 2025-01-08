@@ -1,4 +1,0 @@
-path_generator:
-  look_ahead_distance: 0.5
-  max_speed: 0.5
-  angular_gain: 2.0

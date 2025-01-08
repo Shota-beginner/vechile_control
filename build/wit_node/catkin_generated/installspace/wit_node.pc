@@ -1,8 +1,0 @@
-prefix=/home/shota/catkin_ws/install
-
-Name: wit_node
-Description: Description of wit_node
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lwit_nodelet
-Requires: ecl_build ecl_devices ecl_geometry ecl_sigslots ecl_time nodelet pluginlib roscpp rospy sensor_msgs std_msgs

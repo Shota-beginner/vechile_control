@@ -1,8 +1,0 @@
-prefix=/home/shota/catkin_ws/install
-
-Name: emcl2
-Description: Description of emcl2
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

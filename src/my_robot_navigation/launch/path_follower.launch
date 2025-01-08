@@ -1,4 +1,0 @@
-<launch>
-  <node name="path_generator" pkg="my_robot_navigation" type="path_generator.py" output="screen" />
-  <node name="pure_pursuit" pkg="my_robot_navigation" type="pure_pursuit.py" output="screen" />
-</launch>

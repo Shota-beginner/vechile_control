@@ -1,6 +1,0 @@
-cugo_ros_control
-/home/shota/catkin_ws/devel/.private/cugo_ros_control/cmake.lock /home/shota/catkin_ws/devel/./cmake.lock
-/home/shota/catkin_ws/devel/.private/cugo_ros_control/lib/pkgconfig/cugo_ros_control.pc /home/shota/catkin_ws/devel/lib/pkgconfig/cugo_ros_control.pc
-/home/shota/catkin_ws/devel/.private/cugo_ros_control/lib/cugo_ros_control/cugo_ros_control /home/shota/catkin_ws/devel/lib/cugo_ros_control/cugo_ros_control
-/home/shota/catkin_ws/devel/.private/cugo_ros_control/share/cugo_ros_control/cmake/cugo_ros_controlConfig.cmake /home/shota/catkin_ws/devel/share/cugo_ros_control/cmake/cugo_ros_controlConfig.cmake
-/home/shota/catkin_ws/devel/.private/cugo_ros_control/share/cugo_ros_control/cmake/cugo_ros_controlConfig-version.cmake /home/shota/catkin_ws/devel/share/cugo_ros_control/cmake/cugo_ros_controlConfig-version.cmake
